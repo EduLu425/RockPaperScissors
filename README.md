@@ -1,1 +1,2 @@
 # RockPaperScissors
+This will be a simple rock paper scissors game played entirely within a browser's console without a GUI. This program will be a way to practice my current skillset with javascript and intends to be revisited later once I know more.
